@@ -15,7 +15,7 @@
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://is-my-endpoint-ready-yet.superoverflow.com/",
+  "homepage": "http://is-my-endpoint-ready-yet.superoverflow.com/",
   "eslintConfig": {
     "extends": "react-app"
   },
