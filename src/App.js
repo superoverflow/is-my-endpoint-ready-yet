@@ -31,7 +31,7 @@ class App extends Component {
             {yes && '👏'}
             {no && '🤮'}
           </span>
-          <p>Is my endpoint ready yet?</p>
+          <p>Come on! Is my endpoint ready yet?</p>
           <div>
             <button onClick={this.yes}>Yes</button>
             <button onClick={this.no}>No</button>
